@@ -1,0 +1,11 @@
+glfw==1.12.0
+gym==0.20.0
+mujoco_py==2.1.2.14
+numpy==1.22.3
+opencv_python==4.5.5.64
+Pillow==9.4.0
+pyglet==1.5.26
+ray==1.12.1
+setproctitle==1.2.3
+torch==1.12.1
+wandb

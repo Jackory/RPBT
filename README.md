@@ -1,6 +1,6 @@
 # RPBT
 
-This is the source code of RPBT, which is proposed in the paper "**Learning Diverse Risk Preferences in Population-based Self-play"**(http://arxiv.org/abs/2305.11476)。This repository provide a single file implementation of **RPPO(Risk-sensitive PPO)** in `toyexample/rppo.py`, and a lightweight, scalable implementation of **RPBT(Population based self-play with RPPO)**. All the experiments were conducted with one AMD EPYC 7702 64-Core Processor and one GeForce RTX 3090 GPU.
+This is the source code of RPBT, which is proposed in the paper "**Learning Diverse Risk Preferences in Population-based Self-play"**(http://arxiv.org/abs/2305.11476). This repository provide a single file implementation of **RPPO(Risk-sensitive PPO)** in `toyexample/rppo.py`, and a lightweight, scalable implementation of **RPBT(Population based self-play with RPPO)**. All the experiments were conducted with one AMD EPYC 7702 64-Core Processor and one GeForce RTX 3090 GPU.
 
 ## 1. Environment supported
 
